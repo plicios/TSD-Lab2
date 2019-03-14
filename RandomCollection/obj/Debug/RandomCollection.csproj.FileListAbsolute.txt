@@ -1,0 +1,8 @@
+c:\users\student\documents\visual studio 2013\Projects\RandomCollection\RandomCollection\bin\Debug\RandomCollection.exe.config
+C:\Users\Piotr\Downloads\RandomCollection\RandomCollection\RandomCollection\bin\Debug\RandomCollection.exe.config
+C:\Users\Piotr\Downloads\RandomCollection\RandomCollection\RandomCollection\bin\Debug\RandomCollection.exe
+C:\Users\Piotr\Downloads\RandomCollection\RandomCollection\RandomCollection\bin\Debug\RandomCollection.pdb
+C:\Users\Piotr\Downloads\RandomCollection\RandomCollection\RandomCollection\obj\Debug\RandomCollection.csprojAssemblyReference.cache
+C:\Users\Piotr\Downloads\RandomCollection\RandomCollection\RandomCollection\obj\Debug\RandomCollection.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Downloads\RandomCollection\RandomCollection\RandomCollection\obj\Debug\RandomCollection.exe
+C:\Users\Piotr\Downloads\RandomCollection\RandomCollection\RandomCollection\obj\Debug\RandomCollection.pdb
